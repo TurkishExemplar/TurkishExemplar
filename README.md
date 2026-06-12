@@ -10,7 +10,7 @@
 
 * Computer Science grad from Stevens Institute of Technology
 * Full stack developer who builds and ships end to end web apps
-* Currently building [Slabr](https://slabr.vercel.app), a portfolio tracker for collectibles
+* Currently building **Slabr**, a portfolio tracker for collectibles
 * Into prediction markets, sports analytics, and anything data driven
 * Reach me at barissahin9662@gmail.com
 
@@ -48,11 +48,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Featured Projects
 
-**[Slabr](https://slabr.vercel.app):** Full stack collectibles portfolio tracker for sports cards, TCG, comics, and sealed boxes. Built with React, Node, and PostgreSQL.
+**Slabr:** Full stack collectibles portfolio tracker for sports cards, TCG, comics, and sealed boxes. Built with React, Node, and PostgreSQL. Live at `slabr.vercel.app`.
 
 **Prediction Market Arbitrage Scanner:** Real time scanner polling Polymarket and Kalshi every 10 seconds across 400+ live markets. Two stage matching pipeline using Jaccard similarity plus an ML classifier at 86.5% CV accuracy, with a Flask dashboard for match history and performance metrics.
 
@@ -62,6 +63,5 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barissahin9662@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissahin04)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barissahin)
 
 </div>
