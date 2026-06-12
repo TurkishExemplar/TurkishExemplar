@@ -1,8 +1,8 @@
 <div align="center">
 
-# Baris Sahin
+![Baris Sahin](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Baris%20Sahin&fontSize=40&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Grad+%40+Stevens+Institute+of+Technology;React+%7C+Node+%7C+PostgreSQL+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Grad+%40+Stevens+Institute+of+Technology;React+%7C+Node+%7C+PostgreSQL+%7C+Python)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,7 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
