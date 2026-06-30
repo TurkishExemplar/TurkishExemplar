@@ -2,7 +2,7 @@
 
 ![Baris Sahin](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Baris%20Sahin&fontSize=40&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=004225&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Grad+%40+Stevens+Institute+of+Technology;React+%7C+Node+%7C+PostgreSQL+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=FF0734&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Grad+%40+Stevens+Institute+of+Technology;React+%7C+Node+%7C+PostgreSQL+%7C+Python)](https://git.io/typing-svg)
 
 </div>
 
